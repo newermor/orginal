@@ -1,5 +1,5 @@
 import Layout from "../../components/Layout";
-import RecipeReviewCard from "./card";
+
 
 const Home = () => {
   return (
@@ -35,7 +35,7 @@ const HeroComponent = () => {
         </button>
       </div>
      
-      <RecipeReviewCard />
+     
     </div>
   );
 };
