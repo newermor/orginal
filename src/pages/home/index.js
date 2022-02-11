@@ -1,4 +1,5 @@
 import Layout from "../../components/Layout";
+import RecipeReviewCard from "./card";
 
 const Home = () => {
   return (
@@ -33,6 +34,8 @@ const HeroComponent = () => {
           Live Demo
         </button>
       </div>
+     
+      <RecipeReviewCard />
     </div>
   );
 };

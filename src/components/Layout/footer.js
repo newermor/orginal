@@ -86,7 +86,7 @@ const Footer = () => {
           </div>
           <hr className="border-indigo-800" />
           <p className="w-full text-lg text-center my-12 text-white">
-            Copyright © 2020 Qgram Creative
+            Copyright © 2022 Qgram Creative
           </p>
         </div>
       </div>
